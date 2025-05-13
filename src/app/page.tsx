@@ -48,7 +48,7 @@ import { useTheme } from "next-themes";
 
 export default function Home() {
   const {theme, setTheme} = useTheme();
-  const [open, setOpen] = useState("false");
+  //const [open, setOpen] = useState("false");
   const [toogle, setToogle] =useState("false");
 
 
