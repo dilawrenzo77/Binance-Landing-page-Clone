@@ -184,6 +184,7 @@ export default function Home() {
               <div className="flex flex-col items-start justify-center gap-4">
                 <div className="w-[100%]">
                   <p className="text-[0.5rem] font-semibold dark:text-neutral-200">VIP & Institutional</p>
+                  // eslint-disable-next-line react/no-unescaped-entities
                   <p className="text-[0.4rem] text-neutral-700 dark:text-neutral-200">Your trusted digital asset for VIP's and institutions</p>
                 </div>
                 <div className="w-[100%]">
@@ -200,6 +201,7 @@ export default function Home() {
                 </div>
                 <div className="w-[85%]">
                   <p className="text-[0.5rem] font-semibold dark:text-neutral-200">NFT</p>
+                  // eslint-disable-next-line react/no-unescaped-entities
                   <p className="text-[0.4rem] text-neutral-700 dark:text-neutral-200">Explore nft's from creators worldwide</p>
                 </div>
                 <div className="w-[85%]">
@@ -431,6 +433,7 @@ export default function Home() {
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
+              // eslint-disable-next-line react/no-unescaped-entities
               <p className="text-xs text-neutral-500 dark:text-neutral-200">Binance is the world's leading cryptocurrency exchange, catering to 235 million registered users in over 180 countries. With low fees and over 350 cryptocurrencies to trade, Binance is the preferred exchange to trade Bitcoin, Altcoins, and other virtual assets.</p>
               <p className="text-xs text-neutral-500 dark:text-neutral-200 mb-5">With Binance users can:
                 <ul>
